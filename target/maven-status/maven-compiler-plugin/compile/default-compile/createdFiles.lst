@@ -1,0 +1,5 @@
+com\csi\dao\impl\Deptimpl.class
+com\csi\domin\Dept.class
+com\csi\dao\Deptd.class
+com\csi\DBUtil\DBUtil.class
+com\csi\test\test.class
